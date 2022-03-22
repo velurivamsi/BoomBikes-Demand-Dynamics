@@ -24,7 +24,7 @@ Based on various meteorological surveys and people's styles, the service provide
 
 
 # Conclusions 
-Below 3 features contributing significantly towards explaining the demand of the shared bikes.
+Below 3 features contributing significantly towards explaining the demand of the shared bikes.<br>
 Temperature (Temp)
 Light Rain & Snow (weathersit =3)
 Year (yr)
